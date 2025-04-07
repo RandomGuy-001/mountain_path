@@ -51,7 +51,7 @@ int main(int argc, char **argv) {
 
 
   // initialize Bridges
-  Bridges bridges(123, "BRIDGES_USER_ID", "BRIDGES_API_KEY");
+  Bridges bridges(1, "JunKuang", "754592920126");
 
   // defaults for row number and data file
   int startRow = 50;
